@@ -1,0 +1,19 @@
+/* Neon Orange Background */
+body {
+  margin: 0;
+  padding: 0;
+  background: #ff7a00;  /* neon-ish orange */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Orbitron', sans-serif; /* futuristic font */
+}
+
+/* Text Styling */
+.container {
+  font-size: 4rem;
+  font-weight: 700;
+  color: black;
+  text-transform: uppercase;
+}
