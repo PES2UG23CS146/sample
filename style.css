@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Orbitron', sans-serif; /* futuristic font */
+  font-family: Orbitron, sans-serif; /* futuristic font */
 }
 
 /* Text Styling */
